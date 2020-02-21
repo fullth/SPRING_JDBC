@@ -18,7 +18,7 @@ public class MainClass {
 
 		JdbcBean beans1 = new JdbcBean();
 		
-		dao.delete_data(1);
+		//dao.delete_data(1);
 		
 		beans1.setInt_data(2);
 		beans1.setStr_data("테스트 테스트.");
